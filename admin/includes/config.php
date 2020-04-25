@@ -1,8 +1,8 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
+define('DB_HOST','aamhm63itk9d75.c2hltscwcoz4.us-east-1.rds.amazonaws.com');
 define('DB_USER','root');
-define('DB_PASS','');
+define('DB_PASS','elmsroot');
 define('DB_NAME','elms');
 // Establish database connection.
 try
